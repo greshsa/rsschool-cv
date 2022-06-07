@@ -1,1 +1,1 @@
-# rsschool-cv
+https://greshsa.github.io/rsschool-cv/cv
