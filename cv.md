@@ -7,3 +7,8 @@ I want to learn front-end.
 * **discord** - Stas(@greshsa)
 * **github** - @greshsa
 * **phone** - +7-981-914-37-41
+
+### Skills
+* HTML
+* CSS
+* Git
