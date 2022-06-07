@@ -1,1 +1,1 @@
-https://greshsa.github.io/rsschool-cv/cv
+https://greshsa.github.io/rsschool-cv/
